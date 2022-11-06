@@ -2,7 +2,7 @@
 
 ### Repositório criado para demonstração do código desenvolvido para o desafio prático do processo seletivo Zenklub.
 
-** A aplicação foi desenvolvida em um projeto Node.js, a linguagem utilizada foi Typescript, e os testes unitários desenvolvidos com Jest.
+**A aplicação foi desenvolvida em um projeto Node.js, a linguagem utilizada foi Typescript, e os testes unitários desenvolvidos com Jest.
 
 
 Iniciando a aplicação depois de realizar o "git Clone":

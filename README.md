@@ -5,7 +5,7 @@
 **A aplicação foi desenvolvida em um projeto Node.js, a linguagem utilizada foi Typescript, e os testes unitários desenvolvidos com Jest.**
 
 
-Iniciando a aplicação depois de realizar o "git Clone":
+**_Iniciando a aplicação depois de realizar o "git Clone":_**
 
 npm install
 
@@ -22,19 +22,14 @@ npm install @types/jest -D
 npx ts-jest config:init
 
 
-Para executar o arquivo app.ts:
+**_Para executar o arquivo app.ts:_**
 npx tsc app.ts
 
 
-Para rodar o arquivo Javascript gerado:
+**_Para rodar o arquivo Javascript gerado:_**
 node app.js
 
 
-Para realizar os testes:
+**_Para realizar os testes:_**
 npm jest
-
-
-
-
-
 

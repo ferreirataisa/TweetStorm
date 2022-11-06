@@ -11,15 +11,14 @@ Testes unitários - arquivo: **app.test.ts**
 Código compilado - arquivo: **app.js**
 
 
-**_Iniciando a aplicação após realizar o "git Clone":_**
+**_Iniciando a aplicação após clonar o repositório:_**
 
 npm install
 
-**_Para rodar o arquivo Javascript gerado:_**
+**_Rodando o arquivo Javascript gerado:_**
 
 npm start
 
-**_Para realizar os testes:_**
+**_Realizando os testes:_**
 
 npm test
-

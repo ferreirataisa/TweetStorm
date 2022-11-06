@@ -10,7 +10,7 @@ Testes unitários - arquivo: **add.test.ts**
 
 Código compilado - arquivo: **add.js**
 
-**_Iniciando a aplicação depois de realizar o "git Clone":_**
+**_Iniciando a aplicação após realizar o "git Clone":_**
 
 npm install
 

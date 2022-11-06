@@ -6,11 +6,17 @@ A aplicação foi desenvolvida em um projeto Node.js, a linguagem utilizada foi 
 
 Iniciando a aplicação depois de realizar o "git Clone":
 npm install
+
 npm init -y
+
 npm install typescript -D
+
 npm install jest -D
+
 npm install ts-jest
+
 npm install @types/jest -D
+
 npx ts-jest config:init
 
 Para executar o arquivo app.ts:

@@ -4,6 +4,10 @@
 
 **A aplicação foi desenvolvida em um projeto Node.js, a linguagem utilizada foi Typescript, e os testes unitários desenvolvidos com Jest.**
 
+Função tweetStorm: arquivo **add.ts**
+Testes unitários: arquivo **add.test.ts**
+Código compilado: arquivo **add.js**
+
 **_Iniciando a aplicação depois de realizar o "git Clone":_**
 
 npm install

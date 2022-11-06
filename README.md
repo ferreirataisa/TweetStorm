@@ -23,13 +23,16 @@ npx ts-jest config:init
 
 
 **_Para executar o arquivo app.ts:_**
+
 npx tsc app.ts
 
 
 **_Para rodar o arquivo Javascript gerado:_**
+
 node app.js
 
 
 **_Para realizar os testes:_**
+
 npm jest
 
